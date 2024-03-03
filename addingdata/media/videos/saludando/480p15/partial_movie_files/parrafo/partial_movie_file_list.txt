@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/prl412/proyectos/python/animaciones/manim/DreamMath/addingdata/media/videos/saludando/480p15/partial_movie_files/parrafo/1185818338_4035517508_223132457.mp4'
+file 'file:/home/prl412/proyectos/python/animaciones/manim/DreamMath/addingdata/media/videos/saludando/480p15/partial_movie_files/parrafo/624642324_784179552_588839393.mp4'
